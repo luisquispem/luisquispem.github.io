@@ -50,10 +50,11 @@ ___2017-2023___\
 
 # Skills
 ![Illustration of softwares](/images/SOFTWARES.png){: .align-right width="250px"} 
-**R**: Web Scraping, Data Process. \
-**Stata**: Econometrics, Geotools, Data Process. \
-**Python**: Machine Learning, Plotting. \
+**Python**: Machine Learning, Plotting, Web Scraping, OCR tools. \
+**R**: Data Processing, Web Scraping. \
 **Matlab**: Optimization, Simulations, Time-Series Analysis. \
+**SQL**: Data Processing. \
+**Stata**: Econometrics, Geotools, Data Process. \
 **Tableau**: Dashboards. \
 **Git / Github**: Control commands. \
 **Latex / Overleaf**: Text editor.
