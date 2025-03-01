@@ -31,7 +31,7 @@ redirect_from:
 
 ## Research Assistant @ Department of Economics - PUCP  _[2023]_
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted PhD. Isabel Guerrero Ochoa by providing support in  simulation processes and drafting for a Job Market Paper. Yet to be published.\
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collaborated in the elaboration of a working paper, applying the model presented in her PhD. Dissertation Thesis. Yet to be published. \
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collaborated on a working paper, applying the Matlab simulation model from Guerrero's PhD dissertation. The paper is yet to be published. \
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted in the design of an impact evaluation for a consultancy referring to Natural Protected Areas.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collected data from different sources for future research.
 
