@@ -24,7 +24,7 @@ redirect_from:
 
 # Experience
 
-## Analyst @ Green Gold Forestry  _[2023]_
+## Analyst @ Green Gold Forestry  _[2024 - Present]_
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Implemented a Python script to digitize more than 3 year of handwritten attendance lists and purchase records using OCR tools, significantly reducing digitization time and improving data accuracy.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Developed the commercial section of two ongoing project verification reports, establishing the first protocol to automate key product export systematization via Veritrade platform using web scraping tools and compiled the database. \
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> I prepared quarterly progress reports for a collaborative project with various partners, including reviews of compiled financial and operational information.\
