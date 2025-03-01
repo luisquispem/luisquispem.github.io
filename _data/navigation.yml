@@ -6,5 +6,5 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Research"
-    url: /publications/ 
+#  - title: "Research"
+#    url: /publications/ 
