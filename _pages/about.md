@@ -45,7 +45,7 @@ redirect_from:
 
 **Bachelor of Science in Economics - Pontificia Universidad Católica del Perú**\
 ___2017-2023___\
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Relevant courses: Econometrics, Microeconomics.\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Relevant courses: Econometrics, Applied Statistics, Microeconomics.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Graduate courses: Advanced Topics in Macroeconomics (First place), Advanced Financial Theory (Top 5).
 
 # Skills
