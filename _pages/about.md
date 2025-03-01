@@ -37,7 +37,7 @@ redirect_from:
 
 
 ## Intern @ Inter-American Development Bank             _[2022]_
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Developed and maintained automated web scraping pipelines using R to extract and aggregate financial data from government and multilateral institution websites, expanding the data collection to include four additional countries.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Developed and maintained automated web scraping pipelines using R to extract and aggregate financial data from government and multilateral institution websites, expanding the data collection to include four additional countries.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Development and application of quantitative analysis methodologies to uncover potential financing opportunities to the clients.
 
 
